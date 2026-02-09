@@ -1,0 +1,7 @@
+~ This is the first program with a comment
+~ it actually has two comments ...
+
+begin
+  a_sdf = b+c+d+e+f+ghijk;
+  b (c+hello) * (a - 5);
+end.
